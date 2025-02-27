@@ -17,6 +17,9 @@
         "backgroundColor": "#ffffff"
       }
     },
+    
+      "scheme": "your-app-scheme",
+    
     "web": {
       "bundler": "metro",
       "output": "static",
