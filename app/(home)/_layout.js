@@ -14,7 +14,7 @@ export default function HomeLayout() {
         buttonTitle: "Yes",
       },
       {
-        identifier: "NO_ACTION",
+        identifier: "NO_ACTION", 
         buttonTitle: "No",
       },
     ]);
